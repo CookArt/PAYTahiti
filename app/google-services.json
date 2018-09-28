@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "172771843417",
+    "firebase_url": "https://paytahiti.firebaseio.com",
+    "project_id": "paytahiti",
+    "storage_bucket": "paytahiti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172771843417:android:188deaa4767f793a",
+        "android_client_info": {
+          "package_name": "com.cookart.paytahiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172771843417-cl0i03h6gc2fk3ae36h6h5gpfnl7mvdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookart.paytahiti",
+            "certificate_hash": "7be5088efa98440b495e4601d10dd555880f35c6"
+          }
+        },
+        {
+          "client_id": "172771843417-ihnik5m2f91qd3qmv9ni24j32hot7cfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtR70rJNnJdqzaFwFErEFF68ZCBCYHff8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172771843417-ihnik5m2f91qd3qmv9ni24j32hot7cfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
